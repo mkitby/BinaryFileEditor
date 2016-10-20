@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1476803702 source:c:\users\tkggi\desktop\binaryfileeditor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"getopt.h"
+
+1434695058 c:\users\tkggi\desktop\binaryfileeditor\getopt.h
+	<string.h>
+	<wchar.h>
+
+1476797260 source:c:\users\tkggi\desktop\binaryfileeditor\getopt.c
+	<stdlib.h>
+	<stdio.h>
+	<malloc.h>
+	"getopt.h"
+
+1476797260 source:c:\users\xp3409\desktop\binaryfileeditor\getopt.c
+	<stdlib.h>
+	<stdio.h>
+	<malloc.h>
+	"getopt.h"
+
+1434695058 c:\users\xp3409\desktop\binaryfileeditor\getopt.h
+	<string.h>
+	<wchar.h>
+
+1476860532 source:c:\users\xp3409\desktop\binaryfileeditor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"getopt.h"
+
+1476865283 source:e:\01 work\03 source code\binaryfileeditor\getopt.c
+	"config.h"
+	<stdio.h>
+	"tailor.h"
+	<stdlib.h>
+	"getopt.h"
+	<string.h>
+
+1190736000 e:\01 work\03 source code\binaryfileeditor\tailor.h
+	<io.h>
+	<io.h>
+	<dos.h>
+	<io.h>
+	<malloc.h>
+	<alloc.h>
+	<malloc.h>
+	<file.h>
+	<unixio.h>
+	<fcntl.h>
+
+1190736000 e:\01 work\03 source code\binaryfileeditor\getopt.h
+
+1476865023 source:e:\01 work\03 source code\binaryfileeditor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"getopt.h"
+
